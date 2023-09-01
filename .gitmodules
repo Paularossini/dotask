@@ -1,0 +1,3 @@
+[submodule "dotasks"]
+	path = dotasks
+	url = https://github.com/Paularossini/dotasks.git
